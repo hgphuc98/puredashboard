@@ -1,6 +1,6 @@
 <?php
 
-namespace BetterFlarum\NextAdminUI;
+namespace hgphuc98\puredashboard;
 
 use Flarum\Extend;
 
