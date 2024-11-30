@@ -11,14 +11,6 @@ Reworked Flarum admin dashboard UI - Feel free to report bugs and suggest on Dis
 ## Installation
 
 ```sh
-composer require betterflarum/nextadmintheme
-```
-
-## Update
-
-```sh
-composer update betterflarum/nextadmintheme
-php flarum migrate
-php flarum cache:clear
+composer require hgphuc98/puredashboard
 ```
 
