@@ -1,0 +1,36 @@
+{
+    "name": "hgphuc98/puredashboard",
+    "description": "Reworked Flarum admin dashboard UI - Feel free to report bugs and suggest on Discuss link",
+  "keywords": [
+    "flarum",
+    "theme",
+    "admin",
+    "nexttheme"
+  ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "support": {
+        "forum": "https://discuss.flarum.org/"
+    },
+    "require": {
+        "flarum/core": "^1.8.1"
+    },
+    "authors": [
+        {
+            "name": "Flarum Pure UI Team",
+            "email": "ioshongphuc@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "extra": {
+        "flarum-extension": {
+            "title": "Pure Dashboard",
+            "category": "theme",
+            "icon": {
+                "name": "fa fa-hand-sparkles",
+                "backgroundColor": "lightblue",
+                "color": "white"
+            }
+        }
+    }
+}
